@@ -19,6 +19,7 @@
     
     self.view.backgroundColor=[UIColor yellowColor];
     
+    NSLog(@"bbbbbb");
 }
 
 - (void)didReceiveMemoryWarning {
